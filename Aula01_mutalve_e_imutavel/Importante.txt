@@ -1,0 +1,18 @@
+Comentarios
+
+	Bloco
+		/*...*/
+	Linha
+		//
+
+Variaveis
+	TIPOS DE VARIÁVEIS
+    		string : Textos
+    		int : Números Inteiros
+   		 Double : Números decimais, 16 números após o ponto
+    		Float : Números decimais, 07 números após o ponto
+    		Long : Números inteiros
+    		Boolen : True && False
+
+    Em Kotlen não há necessidade de declarar o tipo da variável. O Kotlen consegue entender automaticamente,
+    qual o tipo da variável está sendo imputado através do seu valor.
